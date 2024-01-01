@@ -1,0 +1,6 @@
+ipython
+jupyter
+python-dotenv
+google-cloud-bigquery
+learntools
+db-dtypes
