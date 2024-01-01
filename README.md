@@ -15,6 +15,12 @@ This dataset encompasses all narratives and remarks from Hacker News since its i
 - **full_201510.csv**: 
 - **stories.csv**: 
 
+[Open AQ](https://www.kaggle.com/datasets/open-aq/openaq)
+
+OpenAQ is a public project that provides live air quality data from across the globe. Their goal is to facilitate scientific research that was previously unattainable, influence policy-making, and equip the public with the tools to combat air pollution. The dataset is limited to the most recent measurements for each location, without any historical data, and it is updated on a weekly basis.
+
+- **global_air_quality.csv**:
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
@@ -44,7 +50,11 @@ pip install -r requirements.txt
 Open the Jupyter notebook:
 
 ```bash
-jupyter xxxx.ipynb
+jupyter exercise-getting-started-with-sql-and-bigquery.ipynb
+```
+
+```bash
+jupyter exercise-select-from-where.ipynb
 ```
 
 ## Built With
