@@ -147,6 +147,9 @@ cython_debug/
 # Jupyter notebooks
 getting-started-with-sql-and-bigquery.ipynb
 select-from-where.ipynb
+as-with.ipynb
+group-by-having-count.ipynb
+order-by.ipynb
 
 # Vulnerable Information
 keyfile.json
