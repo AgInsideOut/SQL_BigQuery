@@ -10,16 +10,50 @@ This repository involves the workflow for handling big datasets with BigQuery an
 
 This dataset encompasses all narratives and remarks from Hacker News since its inception in 2006. Every narrative includes an id, the author's name, the time of creation, and the tally of points it garnered. Hacker News is a communal news portal with a focus on computer science and business startups. It operates under the aegis of Paul Graham's investment fund and startup incubator, Y Combinator. Broadly, any content that satisfies one's intellectual curiosity is deemed acceptable for submission.
 
-- **comments.csv**: 
-- **full.csv**: 
-- **full_201510.csv**: 
-- **stories.csv**: 
+- **comments.csv**
+- **full.csv**
+- **full_201510.csv**
+- **stories.csv**
 
 [Open AQ](https://www.kaggle.com/datasets/open-aq/openaq)
 
 OpenAQ is a public project that provides live air quality data from across the globe. Their goal is to facilitate scientific research that was previously unattainable, influence policy-making, and equip the public with the tools to combat air pollution. The dataset is limited to the most recent measurements for each location, without any historical data, and it is updated on a weekly basis.
 
-- **global_air_quality.csv**:
+- **global_air_quality.csv**
+
+[US Traffic fatality records](https://www.kaggle.com/datasets/usdot/nhtsa-traffic-fatalities)
+
+The Fatality Analysis Reporting System (FARS) was established by the National Highway Traffic Safety Administration (NHTSA) in the United States to provide a comprehensive measure of highway safety, suggest solutions, and provide an objective basis for evaluating the effectiveness of motor vehicle safety standards and highway safety programs. FARS, operational since 1975, contains data on fatal traffic crashes within the 50 States, the District of Columbia, and Puerto Rico, and has collected information on over 989,451 motor vehicle fatalities.
+
+- **accident_2015.csv**, **accident_2016.csv**,
+- **cevent_2015.csv**, **cevent_2016.csv**, 
+- **damage_2015.csv**, **damage_2016.csv**,
+- **distract_2015.csv**, **distract_2016.csv**,
+- **drimpair_2015.csv**, **drimpair_2016.csv**,
+- **factor_2015.csv**, **factor_2016.csv**,
+- **maneuver_2015.csv**, **maneuver_2016.csv**,
+- **nmcrash_2015.csv**, **nmcrash_2016.csv**,
+- **nmimpair_2015.csv**, **nmimpair_2016.csv**,
+- **nmprior_2015.csv**, **nmprior_2016.csv**,
+- **parkwork_2015.csv**, **parkwork_2016.csv**,
+- **pbtype_2015.csv**, **pbtype_2016.csv**,
+- **person_2015.csv**, **person_2016.csv**,
+- **safetyeq_2015.csv**, **safetyeq_2016.csv**,
+- **vehicle_2015.csv**, **vehicle_2016.csv**,
+- **vevent_2015.csv**, **vevent_2016.csv**,
+- **vindecode_2015.csv**, **vindecode_2016.csv**,
+- **violatn_2015.csv**, **violatn_2016.csv**,
+- **vision_2015.csv**, **vision_2016.csv**,
+- **vsoe_2015.csv**, **vsoe_2016.csv**,
+
+[World Bank: Education Data](https://www.kaggle.com/datasets/theworldbank/world-bank-intl-education)
+
+The World Bank, a global financial organization, offers loans to nations worldwide for infrastructure development. Its primary objective is to alleviate poverty. This particular dataset amalgamates crucial education data from multiple sources, offering insights into worldwide literacy, expenditure, and accessibility. For additional details, one can visit the World Bank's official website.
+
+- **country_series_definitions.csv**
+- **country_summary.csv**
+- **international_education.csv**
+- **series_summary.csv**
 
 
 ## Getting Started
